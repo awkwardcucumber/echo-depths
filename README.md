@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26601891/README.md)
 # ECHO DEPTHS
 
 Multiplayer co-op underwater horror where players are effectively blind and must use microphone loudness to reveal the world. Sound helps navigation, but also increases danger.
